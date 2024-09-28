@@ -1,5 +1,8 @@
 # Interactive-data-type-operations-system
-Project goals
+
+![368596118-2052bb82-ad94-4f3d-ab32-03135528d0db](https://github.com/user-attachments/assets/5d8c74ad-1606-49fe-b017-d9dc8bd7552c)
+
+# Project goals
 Various database operations are introduced in this project. A menu is viewed where each number from 1 to 4 leads to viewing different operations.
 
 # Solutions
