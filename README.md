@@ -6,7 +6,7 @@
 Various database operations are introduced in this project. A menu is viewed where each number from 1 to 4 leads to viewing different operations.
 In this exercise created a dynamic script where the user gets to choose a data type and perform related operations. 
 
-🌟 Project Overview
+# 🌟 Project Overview
    - Prompts the user to select a data type from a list of choices.
    - Based on the user’s selection, performs specific operations related to that data type.
    - Provides meaningful output and handles edge cases (like dividing by zero or modifying an immutable type).
