@@ -1,4 +1,4 @@
-# Interactive-data-type-operations-system
+# 🎓 Interactive-data-type-operations-system
 
 ![368596118-2052bb82-ad94-4f3d-ab32-03135528d0db](https://github.com/user-attachments/assets/5d8c74ad-1606-49fe-b017-d9dc8bd7552c)
 
@@ -20,7 +20,7 @@ In this exercise created a dynamic script where the user gets to choose a data t
    - Error handling 🚫
    - User input & output 🖥️
 
-# Source code link
+# 💻 Source code link
 [https://pastebin.com/YTmrhxdK](https://pastebin.com/g3fWHPiy)
 
 # Screenshots
