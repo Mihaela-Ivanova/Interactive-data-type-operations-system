@@ -23,7 +23,7 @@ In this exercise created a dynamic script where the user gets to choose a data t
 # 💻 Source code link
 [https://pastebin.com/YTmrhxdK](https://pastebin.com/g3fWHPiy)
 
-# Screenshots
+# 🔍 Screenshots
 Show the menu at the beginning of the project.
 
 ![Екранна снимка 2024-09-24 184200](https://github.com/user-attachments/assets/3e4e4806-8f78-4f53-b7f1-9b9a2fbe85ae)
