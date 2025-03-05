@@ -24,11 +24,11 @@ In this exercise created a dynamic script where the user gets to choose a data t
 [https://pastebin.com/YTmrhxdK](https://pastebin.com/g3fWHPiy)
 
 # 🔍 Screenshots
-Show the menu at the beginning of the project.
+✅ Show the menu at the beginning of the project.
 
 ![Екранна снимка 2024-09-24 184200](https://github.com/user-attachments/assets/3e4e4806-8f78-4f53-b7f1-9b9a2fbe85ae)
 
-The output.
+✅ The output.
 
 ![Екранна снимка 2024-09-24 184226](https://github.com/user-attachments/assets/c1747bdb-4d43-497f-ab0a-f7bf53f7de09)
 
